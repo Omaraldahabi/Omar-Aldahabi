@@ -1,5 +1,9 @@
 # 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الدهبي
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9e/8b/4f/9e8b4f1778c187ac6e6c276b5c65a7e6.gif" alt="Study Boy" width="100%">
+</p>
+
 for freelance work? do reach, [email](mailto:omaraldahabi.work@gmail.com) :) 🚀
 
 ---
