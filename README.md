@@ -1,10 +1,4 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="center">
-      <h1>Welcome, I'm Omar Al-Dahabi 👋</h1>
-    </td>
-  </tr>
-</table>
+# Welcome, I'm Omar Al-Dahabi 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer at Desk" width="65%">
