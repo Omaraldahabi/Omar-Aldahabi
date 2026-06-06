@@ -1,7 +1,7 @@
 # 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الدهبي
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pY3E1Y2pxNzJnNm9pYm15b2Y0ZXg0ZXg5b3N6cXF3djRreXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Boy" width="50%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzdXN3Ymt2N3ZxcGphbXBnbWpndm96NjZicXF5dWtsbXg2b296OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Developer at Desk" width="60%">
 </p>
 
 for freelance work? do reach, [email](mailto:omaraldahabi.work@gmail.com) :) 🚀
