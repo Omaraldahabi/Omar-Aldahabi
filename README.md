@@ -1,7 +1,7 @@
-# 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الدهبي
+# 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الذهبي
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzdXN3Ymt2N3ZxcGphbXBnbWpndm96NjZicXF5dWtsbXg2b296OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Developer at Desk" width="60%">
+  <img src="https://user-images.githubusercontent.com/74038190/212749323-45ef426a-932f-4809-9060-f6551b32943a.gif" alt="Developer Coding" width="65%">
 </p>
 
 for freelance work? do reach, [email](mailto:omaraldahabi.work@gmail.com) :) 🚀
