@@ -1,4 +1,4 @@
-# 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الذهبي
+# 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الدهبي
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer at Desk" width="65%">
