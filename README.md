@@ -1,7 +1,7 @@
 # 👋 أهلاً بك في بروفايلي البرمجي والإبداعي! أنا عمر الذهبي
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749323-45ef426a-932f-4809-9060-f6551b32943a.gif" alt="Developer Coding" width="65%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer at Desk" width="65%">
 </p>
 
 for freelance work? do reach, [email](mailto:omaraldahabi.work@gmail.com) :) 🚀
